@@ -1,1 +1,33 @@
-jkjjiiji
+1. Python Programming Fundamentals
+
+👉 Learn from basics to intermediate concepts
+
+Variables, Data Types (int, float, str, list, tuple, dict, set)
+
+Conditionals: if, else, elif
+
+Loops: for, while
+
+Functions (args, kwargs, return values)
+
+Exception Handling (try-except)
+
+File handling (read/write files)
+
+OOP Basics (Class, Object, Inheritance, Encapsulation)
+
+✅ 2. Essential Python Libraries for Data Science
+
+👉 Most important libraries widely used in the industry
+
+✅ NumPy – Efficient handling of arrays, mathematical functions
+
+✅ Pandas – Data manipulation, cleaning, DataFrame operations
+
+✅ Matplotlib & Seaborn – Data visualization
+
+✅ Scikit-learn – Machine Learning models, train/test split, pipelines
+
+✅ SciPy – Scientific computing (e.g., statistical tests)
+
+✅ Statsmodels – Statistical models, hypothesis testing
